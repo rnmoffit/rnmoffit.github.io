@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /manifesto/
 title: "Personal Manifesto"
 excerpt: "What I think"
 author_profile: true
