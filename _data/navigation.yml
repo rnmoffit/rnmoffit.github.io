@@ -20,3 +20,6 @@ main:
 
   - title: "Manifesto"
     url: /manifesto/
+
+  - title: "Fancy Link"
+    url: /fancy/
