@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Rebecca Moffit"
   avatar           : "profile.png"
+  degree:          : "MLIS extraordinaire"
   bio              : "I'm creating an example website for my own nefarious purposes."
   location         : "Saturn, Milky Way"
   employer         :
